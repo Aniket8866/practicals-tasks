@@ -1,0 +1,68 @@
+<?php
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+?>
+
+<?php /* @var $block \Magento\Catalog\Block\Product\View\Options\Type\Select */ ?>
+<?php
+$_option = $block->getOption();
+$class = ($_option->getIsRequire()) ? ' required' : '';
+?>
+<div class="field<?= /* @noEscape */ $class ?>">
+    <label class="label" for="select_<?= $block->escapeHtmlAttr($_option->getId()) ?>">
+        <span><?= $block->escapeHtml($_option->getTitle()) ?></span>
+    </label>
+    <div class="control">
+        <?= $block->getValuesHtml() ?>
+        <?php if ($_option->getIsRequire()) :?>
+            <?php if ($_option->getType() == \Magento\Catalog\Api\Data\ProductCustomOptionInterface::OPTION_TYPE_RADIO || $_option->getType() == \Magento\Catalog\Api\Data\ProductCustomOptionInterface::OPTION_TYPE_CHECKBOX) :?>
+                <span id="options-<?= $block->escapeHtmlAttr($_option->getId()) ?>-container"></span>
+            <?php endif; ?>
+        <?php endif;?>
+    </div>
+</div>
+<script>
+  require([
+   'jquery',
+   'Magento_Catalog/js/price-utils',
+   'domReady!'
+   ], function ($,priceUtils) {
+       $(document).ready(function () {
+           $('select.product-custom-option').change(function(){
+                var i = 0;
+               $('option').each(function(){
+                    var select_element = $(this).parent();
+                    var json = $(select_element).attr("data-qtyunitjson");
+                    var selectedOption = $(this).text();
+                    var option_id = $(this).val();
+                    var arr = $.parseJSON(json); //convert to javascript array
+                    var val_qty;
+                    var val_unit;
+                    var val_price;
+                    $.each(arr,function(key,value){
+                        if(option_id == key){
+                            if(value.qty_option !== null && value.unit_option !== null){    
+                                selectedOption = selectedOption + ' - ' + value.qty_option+value.unit_option;
+                                val_qty = value.qty_option;
+                                val_unit = value.unit_option;
+                                val_price = value.option_price;
+                            }
+                        }
+                        
+                    });
+                    
+                    var count = (selectedOption.match(/-/g) || []).length;
+                    if(i !== 0 && count > 1){
+                        let last_index_duplicate = selectedOption.lastIndexOf("-");
+                        selectedOption = selectedOption.substring(last_index_duplicate - 1, selectedOption.indexOf(last_index_duplicate));
+                    }
+                    $(this).text(selectedOption);
+
+                    i++
+               });     
+           });     
+       });
+    });
+</script>

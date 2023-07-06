@@ -1,0 +1,6 @@
+sku,qty,is_in_stock,backorders,use_config_backorders,preorder_note,preorder_availability_date
+24-UG05,10,0,4,0,hello customer-5,09/12/22
+24-MB04,5,1,4,0,hello customer-2,06/11/22
+24-WB01,5,1,4,0,hello customer-3,05/11/22
+24-MB06,3,1,4,0,hello customer-4,04/11/22
+MH01,10,1,4,0,hello customer-6,04/11/22

@@ -1,0 +1,217 @@
+"Order Number","Order Date","Order Status","Order Purchased From","Order Payment Method","Order Shipping Method","Order Subtotal","Order Tax","Order Shipping","Order Discount","Order Grand Total","Order Paid","Order Refunded","Order Due","Total Qty Items Ordered","Customer Name","Customer Email","Shipping Name","Shipping Company","Shipping Street","Shipping Zip","Shipping City","Shipping State","Shipping State Name","Shipping Country","Shipping Country Name","Shipping Phone Number","Billing Name","Billing Company","Billing Street","Billing Zip","Billing City","Billing State","Billing State Name","Billing Country","Billing Country Name","Billing Phone Number","Order Item Increment","Item Name","Item Status","Item SKU","Item Options","Item Original Price","Item Selling Price","Item Qty Ordered","Item Qty Invoiced","Item Qty Shipped","Item Qty Canceled","Item Qty Refunded","Item Tax","Item Discount","Item Total","Coupon Code","GST Number",premium_care
+000000001,12-01-2022,processing,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,29.00,2.39,5.00,0.00,36.39,36.39,0.00,0.00,1,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Iris Workout Top",Shipped,WS03-XS-Red,,29.0000,29.0000,1,1,1,0,0,2.3900,0,29,,
+000000002,12-01-2022,closed,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,32.00,2.64,5.00,0.00,39.64,39.64,39.64,0.00,1,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Minerva LumaTech&trade; V-Tee",Refunded,WS08-XS-Blue,,32.0000,32.0000,1,1,1,0,1,2.6400,0,32,,
+000000003,12-28-2022,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,22.00,1.82,5.00,0.00,28.82,0.00,0.00,28.82,1,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Argus All-Weather Tank",Ordered,MT07-XS-Gray,,22.0000,22.0000,1,0,0,0,0,1.8200,0,22,,
+000000004,01-19-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,45.00,-45.00,304.85,0.00,0.00,304.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000005,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,450.00,29.70,0.00,-90.00,439.70,0.00,0.00,439.70,10,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,29.7000,45,180,,
+000000005,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,450.00,29.70,0.00,-90.00,439.70,0.00,0.00,439.70,10,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,2,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,29.7000,45,180,,
+000000006,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,270.00,17.82,0.00,-54.00,233.82,0.00,0.00,233.82,6,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,6,0,0,0,0,17.8200,54,216,,
+000000007,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,0.0000,45.0000,5,0,0,0,0,,0,0,,
+000000008,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,0.0000,45.0000,5,0,0,0,0,,0,0,,
+000000009,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,0.0000,45.0000,5,0,0,0,0,,0,0,,
+000000010,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,0.0000,45.0000,5,0,0,0,0,,0,0,,
+000000011,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,675.00,44.55,0.00,-135.00,684.55,0.00,0.00,684.55,15,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,44.5500,45,180,,
+000000011,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,675.00,44.55,0.00,-135.00,684.55,0.00,0.00,684.55,15,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,2,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,44.5500,45,180,,
+000000011,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,675.00,44.55,0.00,-135.00,684.55,0.00,0.00,684.55,15,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,3,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,44.5500,45,180,,
+000000012,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,0.00,-45.00,194.85,0.00,0.00,194.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000013,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,0.00,-45.00,194.85,0.00,0.00,194.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000014,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,450.00,29.70,0.00,-90.00,389.70,0.00,0.00,389.70,15,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,10,0,0,0,0,29.7000,90,360,,
+000000014,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,450.00,29.70,0.00,-90.00,389.70,0.00,0.00,389.70,15,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,2,"Push It Messenger Bag",Ordered,24-WB04,,0.0000,45.0000,5,0,0,0,0,29.7000,0,0,,
+000000015,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,0.00,-45.00,194.85,0.00,0.00,194.85,10,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,10,0,0,0,0,14.8500,45,180,,
+000000016,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,675.00,44.55,75.00,-135.00,709.55,0.00,0.00,709.55,20,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,10,0,0,0,0,44.5500,90,360,,
+000000016,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,675.00,44.55,75.00,-135.00,709.55,0.00,0.00,709.55,20,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,2,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,10,0,0,0,0,44.5500,45,180,,
+000000017,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,0.00,-45.00,194.85,0.00,0.00,194.85,10,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,10,0,0,0,0,14.8500,45,180,,
+000000018,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,675.00,44.55,0.00,-135.00,634.55,0.00,0.00,634.55,20,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,10,0,0,0,0,44.5500,90,360,,
+000000018,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,675.00,44.55,0.00,-135.00,634.55,0.00,0.00,634.55,20,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,2,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,10,0,0,0,0,44.5500,45,180,,
+000000019,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,0.00,-45.00,194.85,0.00,0.00,194.85,10,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,10,0,0,0,0,14.8500,45,180,,
+000000020,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,450.00,29.70,0.00,-90.00,439.70,0.00,0.00,439.70,15,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,29.7000,45,180,,
+000000020,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,450.00,29.70,0.00,-90.00,439.70,0.00,0.00,439.70,15,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,2,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,10,0,0,0,0,29.7000,45,180,,
+000000021,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,0.00,-45.00,194.85,0.00,0.00,194.85,10,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,10,0,0,0,0,14.8500,45,180,,
+000000022,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,0.00,-45.00,194.85,0.00,0.00,194.85,10,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,10,0,0,0,0,14.8500,45,180,,
+000000023,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,450.00,29.70,0.00,-90.00,439.70,0.00,0.00,439.70,15,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,29.7000,45,180,,
+000000023,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,450.00,29.70,0.00,-90.00,439.70,0.00,0.00,439.70,15,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,2,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,10,0,0,0,0,29.7000,45,180,,
+000000024,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,0.00,-45.00,194.85,0.00,0.00,194.85,10,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,10,0,0,0,0,14.8500,45,180,,
+000000025,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,0.00,-45.00,194.85,0.00,0.00,194.85,10,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,10,0,0,0,0,14.8500,45,180,,
+000000026,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,0.00,-45.00,194.85,0.00,0.00,194.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000028,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,675.00,44.55,75.00,-135.00,759.55,0.00,0.00,759.55,15,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,44.5500,45,180,,
+000000028,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,675.00,44.55,75.00,-135.00,759.55,0.00,0.00,759.55,15,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,2,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,44.5500,45,180,,
+000000028,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,675.00,44.55,75.00,-135.00,759.55,0.00,0.00,759.55,15,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,3,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,44.5500,45,180,,
+000000029,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,0.00,-45.00,194.85,0.00,0.00,194.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000032,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,675.00,44.55,75.00,-135.00,909.55,0.00,0.00,909.55,20,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,44.5500,45,180,,
+000000032,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,675.00,44.55,75.00,-135.00,909.55,0.00,0.00,909.55,20,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,2,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,44.5500,45,180,,
+000000032,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,675.00,44.55,75.00,-135.00,909.55,0.00,0.00,909.55,20,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,3,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,10,0,0,0,0,44.5500,45,180,,
+000000033,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,0.00,-45.00,244.85,0.00,0.00,244.85,10,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,10,0,0,0,0,14.8500,45,180,,
+000000034,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,45.00,-45.00,304.85,0.00,0.00,304.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000035,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,0.00,-45.00,244.85,0.00,0.00,244.85,10,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,10,0,0,0,0,14.8500,45,180,,
+000000036,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,900.00,0.00,100.00,-180.00,920.00,0.00,0.00,920.00,20,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,10,0,0,0,0,0.0000,90,360,,
+000000036,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,900.00,0.00,100.00,-180.00,920.00,0.00,0.00,920.00,20,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,2,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,10,0,0,0,0,0.0000,90,360,,
+000000037,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,450.00,0.00,50.00,-90.00,460.00,0.00,0.00,460.00,10,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,10,0,0,0,0,0.0000,90,360,,
+000000038,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,450.00,0.00,50.00,-90.00,460.00,0.00,0.00,460.00,10,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,10,0,0,0,0,0.0000,90,360,,
+000000039,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,0.00,25.00,-45.00,305.00,0.00,0.00,305.00,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,0.0000,45,180,,
+000000040,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,0.00,-45.00,244.85,0.00,0.00,244.85,10,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,10,0,0,0,0,14.8500,45,180,,
+000000041,01-20-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,0.00,25.00,-45.00,305.00,0.00,0.00,305.00,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",California,California,US,US,1234512345/12345,"Veronica Costello",,"B1 Abcd street",45454,"Los Angeles",CA,California,US,"United States",1234512345/12345,1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,0.0000,45,180,,
+000000042,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,25.00,-45.00,319.85,0.00,0.00,319.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000043,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,25.00,-45.00,269.85,0.00,0.00,269.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000044,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,450.00,29.70,50.00,-90.00,539.70,0.00,0.00,539.70,10,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,29.7000,45,180,,
+000000044,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,450.00,29.70,50.00,-90.00,539.70,0.00,0.00,539.70,10,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",2,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,29.7000,45,180,,
+000000045,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,25.00,-45.00,269.85,0.00,0.00,269.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000046,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,45.00,-45.00,289.85,0.00,0.00,289.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000047,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,125.00,-45.00,369.85,0.00,0.00,369.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000048,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,25.00,-45.00,269.85,0.00,0.00,269.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000049,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,125.00,-45.00,369.85,0.00,0.00,369.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000050,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,25.00,-45.00,269.85,0.00,0.00,269.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000051,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,175.00,-45.00,419.85,0.00,0.00,419.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000052,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,25.00,-45.00,269.85,0.00,0.00,269.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000053,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,325.00,-45.00,569.85,0.00,0.00,569.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000054,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,325.00,-45.00,569.85,0.00,0.00,569.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000055,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,1100.00,-45.00,1344.85,0.00,0.00,1344.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000056,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,800.00,-45.00,1044.85,0.00,0.00,1044.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000057,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,800.00,-45.00,1044.85,0.00,0.00,1044.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000058,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,125.00,-45.00,369.85,0.00,0.00,369.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000059,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,525.00,-45.00,769.85,0.00,0.00,769.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000060,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,525.00,-45.00,769.85,0.00,0.00,769.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000061,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,525.00,-45.00,1219.85,0.00,0.00,1219.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,

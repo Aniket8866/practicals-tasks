@@ -1,0 +1,64 @@
+"Order Number","Order Date","Order Status","Order Purchased From","Order Payment Method","Order Shipping Method","Order Subtotal","Order Tax","Order Shipping","Order Discount","Order Grand Total","Order Paid","Order Refunded","Order Due","Total Qty Items Ordered","Customer Name","Customer Email","Shipping Name","Shipping Company","Shipping Street","Shipping Zip","Shipping City","Shipping State","Shipping State Name","Shipping Country","Shipping Country Name","Shipping Phone Number","Billing Name","Billing Company","Billing Street","Billing Zip","Billing City","Billing State","Billing State Name","Billing Country","Billing Country Name","Billing Phone Number","Order Item Increment","Item Name","Item Status","Item SKU","Item Options","Item Original Price","Item Selling Price","Item Qty Ordered","Item Qty Invoiced","Item Qty Shipped","Item Qty Canceled","Item Qty Refunded","Item Tax","Item Discount","Item Total","Coupon Code","GST Number",premium_care
+000000042,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,25.00,-45.00,319.85,0.00,0.00,319.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000043,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,25.00,-45.00,269.85,0.00,0.00,269.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000044,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,450.00,29.70,50.00,-90.00,539.70,0.00,0.00,539.70,10,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,29.7000,45,180,,
+000000044,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,450.00,29.70,50.00,-90.00,539.70,0.00,0.00,539.70,10,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",2,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,29.7000,45,180,,
+000000045,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,25.00,-45.00,269.85,0.00,0.00,269.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000046,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,45.00,-45.00,289.85,0.00,0.00,289.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000047,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,125.00,-45.00,369.85,0.00,0.00,369.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000048,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,25.00,-45.00,269.85,0.00,0.00,269.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000049,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,125.00,-45.00,369.85,0.00,0.00,369.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000050,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,25.00,-45.00,269.85,0.00,0.00,269.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000051,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,175.00,-45.00,419.85,0.00,0.00,419.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000052,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,25.00,-45.00,269.85,0.00,0.00,269.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000053,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,325.00,-45.00,569.85,0.00,0.00,569.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000054,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,325.00,-45.00,569.85,0.00,0.00,569.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000055,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,1100.00,-45.00,1344.85,0.00,0.00,1344.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000056,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,800.00,-45.00,1044.85,0.00,0.00,1044.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000057,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,800.00,-45.00,1044.85,0.00,0.00,1044.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000058,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,125.00,-45.00,369.85,0.00,0.00,369.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000059,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,525.00,-45.00,769.85,0.00,0.00,769.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000060,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,525.00,-45.00,769.85,0.00,0.00,769.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
+000000061,01-23-2023,pending,"Main Website
+Main Website Store
+Default Store View","Check / Money order",flatrate_flatrate,225.00,14.85,525.00,-45.00,1219.85,0.00,0.00,1219.85,5,"Veronica Costello",roni_cost@example.com,"Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,Michigan,Michigan,US,US,"(555) 229-3326/","Veronica Costello",,"6146 Honey Bluff Parkway",49628-7978,Calder,MI,Michigan,US,"United States","(555) 229-3326/",1,"Push It Messenger Bag",Ordered,24-WB04,,45.0000,45.0000,5,0,0,0,0,14.8500,45,180,,
