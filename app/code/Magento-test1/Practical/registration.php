@@ -5,6 +5,13 @@
  */
 use Magento\Framework\Component\ComponentRegistrar;
 
-$HelloWorld = "tegsfgd";
+
+
+
+
+
+
+
+
 
 ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Magento360_Practical', __DIR__);
