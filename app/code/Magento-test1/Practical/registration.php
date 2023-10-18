@@ -7,4 +7,7 @@ use Magento\Framework\Component\ComponentRegistrar;
 
 
 
+
+
+
 ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Magento360_Practical', __DIR__);
